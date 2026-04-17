@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.hero{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+p{
+	color: slategray;
+}
+.content{
+	
+	justify-content: center;
+	align-items: center;
+	margin: 50px;
+}
+img{
+	width:500px;
+	height:200px
+	object-fit: cover;
+}
+button{
+	background-color: darkred;
+	color:white;
+	padding:9px;
+	border-radius: 10px;
+	
+}
+.content {
+    text-align: center;
+}
